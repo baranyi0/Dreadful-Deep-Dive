@@ -3,6 +3,7 @@ using UnityEngine.UI;
 
 public class Valuable : MonoBehaviour
 {
+//not implemented in the final build
     [SerializeField] int value;
     [SerializeField] Text money;
 
